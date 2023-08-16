@@ -8,6 +8,7 @@ function App() {
 
     function logEnv(): void {
         console.log(import.meta.env);
+        console.log("tuan dep trai");
     }
 
     return (
